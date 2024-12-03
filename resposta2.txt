@@ -1,0 +1,10 @@
+Ajax: permitiu que conseguíssemos atualizar partes da página sem fazer um refresh da mesma;
+
+Postman: permite que possamos testar com mais facilidade as APIs RESTful que implementamos no backend;
+
+Frameworks (de maneira mais geral): permitem que aceleremos o processo de desenvolvimento a depender do produto
+que pretendemos fazer, por ex.: se queremos fazer um site estático, podemos utilizar o framework HUGO para
+acelerar a criação, customização e deploy do nosso blog ou portfólio; se queremos fazer um site dinâmico,
+podemos utilizar React para criar uma aplicação com várias funcionalidades, efeitos de página e em geral,
+criar uma UX muito mais variada; se queremos fazer uma PWA, podemos utilizar o Flutter para tal, agilizando
+o desenvolvimento de uma aplicação que precisa sempre estar atualizada como site e como aplicativo.

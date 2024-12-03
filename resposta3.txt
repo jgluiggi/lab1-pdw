@@ -1,0 +1,12 @@
+Versionamento de código se refere a uma implementação nichada do versionamento de arquivos
+onde, para todas as bases de código, sejam grandes ou pequenas, traçamos uma linha do tempo de branches
+de código, onde implementamos funcionalidades, testamo-as em ambientes separados a fim de não quebrar
+a versão mais recente, e quando conseguimos um resultado desejável, adicionamo-as à famosa main
+(previamente conhecida como master), resolvendo erros de merge (que surgem no processo de mesclar
+várias branchs na nossa principal) ou não.
+
+Dessa forma, conseguimos gerenciar e analisar funcionalidades que são adicionadas ao nosso código,
+corrigindo erros onde conseguimos encontrá-los (facilitado graças ao histórico de commits) e acompanhando
+o progresso dos desenvolvedores (caso seja disponibilizado pela plataforma de Git que utilizamos,
+algumas mais simples permitem apenas que vejamos os arquivos como o Cgit, enquanto outros são mais
+apropriados para isso, como o famoso Github, Gitlab, Codeberg ou um Gitea hosteado por uma org.).

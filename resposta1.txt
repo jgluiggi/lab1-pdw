@@ -1,0 +1,10 @@
+O surgimento do HTML e da World Wide Web permitiram que qualquer pessoa em qualquer lugar do mundo pudesse acessar informação através de navegadores,
+permitindo a disseminação de conhecimento por meio de páginas estáticas que serviam mais como hubs de informação.
+
+Com o passar do tempo e do seu desenvolvimento, evoluiu e se tornou mais dinâmica. A web ficou interativa e
+permitiu que muito mais conseguisse ser feito no ambiente da Web 2.0, seja pelo fato que o Ajax permitiu que
+conseguíssemos desenvolver aplicações web que atuassem como aplicações previamente usadas apenas no computador
+pessoal (pacote Office, por exemplo).
+
+Com a popularização da internet pelo mundo, mais e mais pessoas conseguiram acessar a riqueza que a internet
+consegue nos prover, sendo hoje o meio principal de informação, educação, entretenimento e prestação de serviços!

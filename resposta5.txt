@@ -1,0 +1,15 @@
+Antigamente, trabalhei separando front e back, mas sinto que isso acaba segregando demais
+o conhecimento da codebase (só fulaninho de tal que sabe como X ou Y funciona), o que, na minha experiência,
+acaba atrapalhando mais que ajudando.
+
+Tentaria organizar de maneira que fizéssemos mais coisas em conjunto ou que as tarefas sempre envolvam
+trabalhar com tudo que há no projeto.
+
+A escolha de ferramentas pra mim, é mais pelo lado do que eu já trabalhei com, a não ser que alternativas
+se provem mais simples de implementar o que pretendo especificamente para o projeto em mãos.
+
+As boas práticas de versionamento, para mim, começam e terminam com boa manipulação de branches e 
+Conventional Commits. Com respeito ao desenvolvimento, honestamente não tenho ideia. Acho que liderar
+como exemplo (mostrando como se estrutura um backend de serviço, controller, routes e etc.) é mais fácil
+que tentar ensinar boas práticas (que são mais aprendidas percebendo os próprios erros ou quando eles
+são apontados a você num momento onde você tem paciência pra ouvi-los).

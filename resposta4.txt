@@ -1,0 +1,5 @@
+Para muitas coisas, isso basta, mas para qualquer aplicação que necessite de dinamismo, comunicação com
+APIs, regras de negócio, autenticação e validação, JavaScript consegue quebrar o galho.
+Isso é de grande ajuda pois permite que ideias mais complexas consigam ser atingidas; graças à esse
+salto tecnológico, a Web está se tornando um ambiente universal de desenvolvimento, verdadeiramente
+multiplataforma.
